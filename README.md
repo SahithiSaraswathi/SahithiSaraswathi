@@ -10,6 +10,6 @@
 
 - 📫 How to reach me: sadhusahithi5@gmail.com
 
-- Know about my projects: [Resume](https://drive.google.com/file/d/1uwu-ZfWNaqA1n4-uW4-_jebnWZy16Wo9/view?usp=sharing)
+- 📄 Know about my projects: [Resume](https://drive.google.com/file/d/1uwu-ZfWNaqA1n4-uW4-_jebnWZy16Wo9/view?usp=sharing)
   
 - 😄 Pronouns: She/Her

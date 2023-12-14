@@ -1,5 +1,3 @@
-![Hello Dribbble!](https://github.com/SahithiSaraswathi/SahithiSaraswathi/assets/86319356/75313a50-7c43-49dc-a9c7-91d5b194695a)
-
 <h1 align="center"> Hey there 👋, I'm Sahithi </h1>
 
 - 🎓 I’m currently pursuing my final year B.Tech in CSE from IIIT Sricity.
